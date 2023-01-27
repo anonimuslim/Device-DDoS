@@ -7,7 +7,7 @@ This tool does not apply to webstie attacks.
 This directory contains Device DDoS scripts that you can use in a Linux environment.
 
 ## How to Use?
-1. $ ``git clone https://github.com/Kevlog/Device-DDoS``
+1. $ ``git clone https://github.com/anonimuslim/Device-DDoS``
 2. $ ``cd Device-DDoS``
 3. $ ``python2 Device-DDoS.py <ip> <port> <packet>``
 4. $ ``python2 Device-DDoS.py 192.168.0.0 80 100`` (example)
