@@ -23,7 +23,7 @@ def flood(victim, vport, duration):
         sent = sent + 1
         print "\033[1;91mStarting \033[1;32m%s \033[1;91msends \033[1;32m%s \033[1;91mpackets on port \033[1;32m%s "%(sent, victim, vport)
 def main():
-    print len(sys.argv)
+    # print len(sys.argv)
     if len(sys.argv) != 4:
         usage()
     else:
